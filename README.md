@@ -4,6 +4,10 @@ Allows you to copy a list of items and have them all searched on chrome in their
 This program will start a new search at every new line. 
 It was origionally made to make google searching lists easier and without the possibility of extentions collecting data.
 
+You can either copy the code to make your own, or download, unzip, and run the batch file.
+
+
+
 To edit the following you will need to open the program through the "edit" option and enter items where needed.
 
 You can change chrome to any browser of your choosing that is downloaded on your device. It has been tested with FireFox, Chrome and Brave. 
