@@ -1,5 +1,5 @@
 # Multiple-Tab-Search
-Allows you to copy a list of items and have them all searched on chrome in their own tabs using Google. You can also set this up to search on other browsers.
+Allows you to copy a list of items and have them all searched on chrome in their own tabs using Google. You can also set this up to search on other browsers and search engines.
 
 This program will start a new search at every new line. 
 It was origionally made to make google searching lists easier and without the possibility of extentions collecting data.
